@@ -149,7 +149,7 @@ If the argument passed to it meets these requirements, `printCar` is happy.
 
 ### Duck typing
 
-"Duck typing" gets its name from the "duck test".
+"Duck typing" gets its name from the "duck test."
 
 > “If it looks like a duck, swims like a duck, and quack like a duck, then it probably is a duck”.
 
